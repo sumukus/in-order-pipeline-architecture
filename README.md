@@ -26,7 +26,8 @@ The output of pogram will be saved in the stats.txt file.
 The output file will contains the following:
 * instuction 
 * clock cycle number
-* stage, instruction_id
-* completed instruction_id
+  * instruction stage
+  * instruction_id
+  * completed instruction_id
 
 At last total number of clock cycles and instructions executed.
