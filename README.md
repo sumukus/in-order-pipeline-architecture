@@ -31,3 +31,10 @@ The output file will contains the following:
   * completed instruction_id
 
 At last total number of clock cycles and instructions executed.
+
+## Future Work
+To build the simulator with following features
+* instructions with data hazards
+* multiple threads implementation
+* out of order pipeline architecture implementation
+
